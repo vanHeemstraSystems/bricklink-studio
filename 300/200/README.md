@@ -6,4 +6,6 @@ Based on "Episode 4: Moving the LEGO Airport!" at https://www.youtube.com/watch?
 
 LEGO Bricks on Wanted List "LEGO Modular Airport Security Checkpoint 2" at https://www.bricklink.com/v2/wanted/search.page?wantedMoreID=9316377
 
+LEGO Modular Airport Security Checkpoint 2 file to import into **Bricklink Studio** and upload to [Bricklink](https://www.bricklink.com/v2/wanted/upload.page?utm_content=subnav) at https://github.com/vanHeemstraSystems/bricklink-studio/blob/main/Airport%20Modular%20Security%20Checkpoint.io
+
 TO DO ...
