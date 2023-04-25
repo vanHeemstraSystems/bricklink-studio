@@ -59,3 +59,7 @@ Based on "HOW YOU CAN MAKE LEGO RENDERS LIKE MINE! | LEGO Art!" at https://www.y
 
 TO DO ...
 
+## Exporting
+
+Based on "Finally got around to combining my two favorite things: home automation and Lego!" at https://www.reddit.com/r/homeassistant/comments/kuj3ql/finally_got_around_to_combining_my_two_favorite/
+
