@@ -1,6 +1,8 @@
 bricklink-studio
 # Bricklink Studio
 
+Based on "Bricklink Studio Tutorial Introduction" at https://www.youtube.com/watch?v=BUxP1A4NLGE
+
 ## 100  -Introduction
 
 See [README.md](./100/README.md)
